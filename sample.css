@@ -1,0 +1,14 @@
+#listofbusiness{
+	
+	background-color: #FF0000;
+	overflow: auto;
+ 	height: 1000px;
+ 	border: 3px groove blue;
+}
+
+.businessgeneral {	
+ overflow: auto;
+ height: 500px;
+ border: 3px groove blue;
+ background-color: #FFFF00;
+}

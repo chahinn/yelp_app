@@ -1,5 +1,5 @@
 # yelp_app
-Functional App created, using Yelp's APIT and Google's API.
+Functional App created, using Yelp's API and Google's API.
 
 Website was built using PHP, Javascript, HTML and CSS.
 

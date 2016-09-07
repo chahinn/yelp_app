@@ -1,5 +1,7 @@
 # yelp_app
-Functional App created, using Yelp's APIT and Google's API
+Functional App created, using Yelp's APIT and Google's API.
+
+Website was built using PHP, Javascript, HTML and CSS.
 
 
-Website :http://cscilab.bc.edu/~chahinn/yelp/sample.php
+Link to the Website :http://cscilab.bc.edu/~chahinn/yelp/sample.php
